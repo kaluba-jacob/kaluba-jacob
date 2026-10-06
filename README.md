@@ -29,19 +29,23 @@ I'm an upcoming Master's candidate in Enterprise Management (Strategic Managemen
 - **French**: Native
 - **Chinese**: Fluent (HSK 6)
 
-## 📌 Featured Projects
+📌 Featured Projects
+https://github.com/kaluba-jacob#-featured-projects
 
-### [🌱 Green Digital Africa Toolkit](https://github.com/kaluba-jacob/green-digital-africa-toolkit)
+🔗 [Global Manufacturing Supply Chain Resilience (2019-2024)](https://github.com/kaluba-jacob/global-manufacturing-supply-chain-resilience-2019-2024)
+Interactive Power BI dashboard + R analysis of friend-shoring, near-shoring and GVC regionalization. UN Comtrade × OECD TiVA × World Bank LPI data; HHI/CR3 concentration indicators, trade flow shift analysis, and dedicated Africa implications section.
+
+🔗 [Green Digital Africa Toolkit](https://github.com/kaluba-jacob/green-digital-africa-toolkit)
 Open-source R toolkit for transferable green digital strategies for African manufacturing & mining SMEs, evidence from Chinese listed industrial firms.
 
-### [📊 Supply-Chain Transition Feasibility Model](https://github.com/kaluba-jacob/supply-chain-transition-feasibility-model)
+🔗 [Supply Chain Transition Feasibility Model](https://github.com/kaluba-jacob/supply-chain-transition-feasibility-model)
 Multi-criteria scoring model to evaluate firm-level low-carbon transition feasibility, with bottleneck diagnosis and econometric validation.
 
-### [🏭 Manufacturing Benchmarking System](https://github.com/kaluba-jacob/manufacturing-benchmarking-system)
+🔗 [Manufacturing Benchmarking System](https://github.com/kaluba-jacob/manufacturing-benchmarking-system)
 Automated R pipeline for competitive benchmarking of Chinese manufacturing firms: green performance, digital capability, R&D intensity and operating efficiency.
 
-### [📦 Supply Chain Segmentation System](https://github.com/kaluba-jacob/systeme-segmentation-chaine-approvisionnement)
-K-means clustering for supplier & customer segmentation, pre/post pandemic comparative analysis *(French documentation)*.
+🔗 [Supply Chain Segmentation System](https://github.com/kaluba-jacob/systeme-segmentation-chaine-approvisionnement)
+K-means clustering for supplier & customer segmentation, pre/post pandemic comparative analysis (French documentation).
 
 ## 💼 Professional Experience
 
